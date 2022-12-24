@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# RokketBinge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Movies and Tv Series library for Cinema Freaks.
 
-## Available Scripts
+# Functionalities
+<ul>
+<li>Search Your Favorite Movies and Tv Series</li>
+<li>Filter Movies and Tv Series by their Categories</li>
+<li>User Can Watch the Trailer of Particular Movie or Tv Series</li>
+<li>Realtime Essentail Information</li>
+</ul>
 
-In the project directory, you can run:
+# Features
+<ul>
+<li>Get the Most Trending and Upcoming Movies</li>
+<li>Get the Direct Official Trailer</li>
+<li>Get the TMDB Ratings</li>
+<li>Get the Genres of Item</li>
+<li>Well Structured Design and User Experience</li>
+<li>Pagination</li>
+</ul>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Screens
+## Trending Page
+![Screenshot (93)](https://user-images.githubusercontent.com/80672730/209451417-30025c3a-491b-4ec6-a559-f39a43d45afe.png)
+## Movies Page
+![Screenshot (98)](https://user-images.githubusercontent.com/80672730/209451445-70c602da-b89f-409b-a4ed-cde32e817776.png)
+## Filter By Category
+![Screenshot (99)](https://user-images.githubusercontent.com/80672730/209451480-43de2291-66d6-4840-b866-3c27a2956a17.png)
+## Tv Series Page
+![Screenshot (100)](https://user-images.githubusercontent.com/80672730/209451485-bbff373f-12b9-46e5-bf9f-cf2b4b406155.png)
+## Search Page
+![Screenshot (101)](https://user-images.githubusercontent.com/80672730/209451513-54129503-56fb-48ba-ae25-5b84265fb355.png)
+## Single Landing Page
+![Screenshot (104)](https://user-images.githubusercontent.com/80672730/209451526-ae053e54-1100-40ab-ae7d-95b110359c9d.png)
